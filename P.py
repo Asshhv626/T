@@ -3,8 +3,8 @@ import subprocess
 import os
 
 # अपना असली टोकन यहाँ डालें (inverted commas के अंदर)
-API_TOKEN = '8669620'
-ADMIN_ID = 1917682089  # आपकी एडमिन आईडी
+API_TOKEN = '8606028603:AAFJMfXkrHq4mzCVmd499_IIhTkitxY5P1Q'
+ADMIN_ID = 8050846472  # आपकी एडमिन आईडी
 
 bot = telebot.TeleBot(API_TOKEN)
 
